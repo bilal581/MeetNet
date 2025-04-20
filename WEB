@@ -10,6 +10,10 @@
   "IN": [
     "https://www.facebook.com",
     "https://www.bing.com"
+  ],
+  "default": [
+    "https://www.instagram.com",
+    "https://www.facebook.com"
   ]
 }
 
