@@ -1,10 +1,10 @@
 {
-  "1": "https://www.google.com",
-  "2": "https://www.bing.com",
-  "3": "https://www.ecosia.org",
-  "4": "https://search.yahoo.com",
-  "5": "https://duckduckgo.com",
-  "6": "https://www.baidu.com",
-  "8": "https://www.hespress.com",
-  "7": "https://yandex.com"
+  "https://www.google.com",
+  "https://www.bing.com",
+  "https://www.ecosia.org",
+  "https://search.yahoo.com",
+  "https://duckduckgo.com",
+  "https://www.baidu.com",
+  "https://www.hespress.com",
+  "https://yandex.com"
 }
