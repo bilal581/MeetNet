@@ -1,4 +1,15 @@
-[
-  "https://www.hespress.com",
-  "https://www.bing.com"
-]
+{
+  "US": [
+    "https://www.hespress.com",
+    "https://www.bing.com"
+  ],
+  "FR": [
+    "https://www.google.com",
+    "https://www.bing.com"
+  ],
+  "IN": [
+    "https://www.facebook.com",
+    "https://www.bing.com"
+  ]
+}
+
