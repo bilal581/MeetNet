@@ -1,12 +1,8 @@
 {
   "1": "https://chat.openai.com",             
-  "2": "https://gemini.google.com",            
-  "3": "https://claude.ai",                    
-  "4": "https://github.com/features/copilot",  
-  "5": "https://www.midjourney.com",           
-  "6": "https://openai.com/dall-e",            
-  "7": "https://runwayml.com",                 
-  "8": "https://www.perplexity.ai",            
-  "9": "https://www.notion.so/product/ai",     
-  "10": "https://www.deepseek.com"            
+  "2": "https://gemini.google.com",      
+  "3": "https://www.wikipedia.org",
+  "4": "https://claude.ai",                    
+  "5": "https://github.com/features/copilot",  
+  "6": "https://copilot.microsoft.com"
 }
